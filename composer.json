@@ -45,7 +45,7 @@
         "psr/cache-implementation": "To cache results",
         "symfony/doctrine-bridge": "To use Doctrine metadata",
         "phpdocumentor/reflection-docblock": "To use the PHPDoc",
-        "phpstan/phpdoc-parser": "To use phpstan,
+        "phpstan/phpdoc-parser": "To use phpstan",
         "symfony/serializer": "To use Serializer metadata"
     },
     "autoload": {
